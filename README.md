@@ -20,7 +20,7 @@ alt="Raspberry Pi Plan Watering System" style="max-width:550px" border="10" /></
 
 #### Check out more details about this project from [SolarWaterBot.com](SolarWaterBot.com). We will be adding more tutorials on how exactly to build this out soon.
 
-#### Check out my sons [Raspberry Pi YouTube channel](https://www.youtube.com/channel/UCA8nJwLIqQVkFHF8nuVh33w). He will be adding more videos soon. Please subscribe to it. That would make a 12 year old very happy :)
+#### Check out my sons [Raspberry Pi YouTube channel](https://www.youtube.com/channel/UCA8nJwLIqQVkFHF8nuVh33w). He will be adding more videos soon. Please subscribe to it. You will make a 12 year old boy very happy :)
 
 
 
