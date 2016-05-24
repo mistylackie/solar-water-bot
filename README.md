@@ -9,7 +9,7 @@ This is Python code that will trigger the motor to turn on when the rain sensor 
 Note: this is the main script you want to call to run the rain sensor code. This script also imports [motor_function.py](motor_function.py) which controls the motor so you will need to download both files for the rain sensor to work.
 
 ## Turn On Water Pump When Soil Is Dry
-This is Python code that will trigger the water pump to turn on when the soil sensor is dry. The pump will turn on pulling water from the tub through water lines up to the plants. The code also detects when the soil sensor is wet and will trigger the pump to turn off. This assures the plants are only watered when the plant soild is dry and not overwatered when the soil is wet. [Download Soil Sensor Code](SoilSensor.py)
+This is Python code that will trigger the water pump to turn on when the soil sensor is dry. The pump will turn on pulling water from the tub through water lines up to the plants. The code also detects when the soil sensor is wet and will trigger the pump to turn off. This assures the plants are only watered when the plant soil is dry and not over-watered when the soil is wet. [Download Soil Sensor Code](SoilSensor.py)
 
 ### Other Python Files
 We also included files [PumpBack.py](PumpBack.py) and [PumpForward.py](PumpBack.py). We used these when we were testing the pump. The pump forward code pulls the water from the tub forward to the plans. The pump back code pulls the water back into the tubs. This is useful if you want to empty out your water lines.
