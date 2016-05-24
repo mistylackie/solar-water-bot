@@ -13,7 +13,7 @@ GPIO.setup(StepPinForward, GPIO.OUT)
 GPIO.setup(StepPinBackward, GPIO.OUT)
 
 # GPIO pins for water sensor
-channel = 29 #5
+channel = 29
 # Set the GPIO pin to an input
 GPIO.setup(channel, GPIO.IN)
 
@@ -21,9 +21,6 @@ def soilsensor(channel):
     if GPIO.input(channel):
         print "Turning Water Pump On!"
         pumpforward(5)
-        #GPIO.output(StepPinForward, GPIO.LOW)
-        #GPIO.cleanup()
-
     else:       
         print "Enough Water. Now Stopping Water Pump"
         GPIO.output(StepPinForward, GPIO.LOW)
