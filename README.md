@@ -18,7 +18,7 @@ We also included files [PumpBack.py](PumpBack.py) and [PumpForward.py](PumpBack.
 <a href="https://youtu.be/-uzUE10D6S4" target="_blank"><img src="https://img.youtube.com/vi/-uzUE10D6S4/0.jpg" 
 alt="Raspberry Pi Plan Watering System" style="max-width:550px" border="10" /></a>
 
-#### Check out more details about this project from [SolarWaterBot.com](SolarWaterBot.com). We will be adding more tutorials on how exactly to build this out soon.
+#### Check out more details about this project from [SolarWaterBot.com](http://www.solarwaterbot.com). We will be adding more tutorials on how exactly to build this out soon.
 
 #### Check out my sons [Raspberry Pi YouTube channel](https://www.youtube.com/channel/UCA8nJwLIqQVkFHF8nuVh33w). He will be adding more videos soon. Please subscribe to it. You will make a 12 year old boy very happy :)
 
