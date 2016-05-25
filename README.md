@@ -3,7 +3,7 @@ Solar Water Bot is a solar powered plant watering system built with a Raspberry 
 
 ##### Learn more about this project and what parts were used from [SolarWaterBot.com](http://www.solarwaterbot.com). More tutorials on how exactly to build this out will be added soon.
 
-<img src="https://www.codedigs.com/wp-content/uploads/2016/04/solar-water-bot-diagram1-1024x508.png" width="100%" alt="Raspberry Pi Plant Watering system">
+[<img src="https://www.codedigs.com/wp-content/uploads/2016/04/solar-water-bot-diagram1-1024x508.png" width="100%" alt="Raspberry Pi Plant Watering system">](http://www.solarwaterbot.com)
 
 ## Open Top Of Tub When It Rains
 This is Python code that will trigger the motor to turn on when the rain sensor detects rain. The motor will open the top of the tub so rain can be captured in the tub. The code also detects when the rain sensor is dry and will trigger the motor to spin the opposite way to close the top of the tub. This assures the water does not get polluted with outside elements when it is not raining. [Download Rain Sensor Code](RainSensor.py)
