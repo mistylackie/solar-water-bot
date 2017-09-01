@@ -1,7 +1,5 @@
 #!/usr/bin/python
 
-#Start by importing the libraries we want to use
-
 import time
 import RPi.GPIO as io
 from motor_function import MotorDirection
